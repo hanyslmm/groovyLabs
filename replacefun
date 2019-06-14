@@ -1,0 +1,7 @@
+class Example {
+   static void main(String[] args) {
+      String a = "Hell< o Worl< d Hel& l& o";
+      println(a.replaceAll("<","&#60"));
+
+   }
+}

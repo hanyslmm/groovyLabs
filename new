@@ -1,0 +1,5 @@
+def multiline = """  jsfksnfnsfsd
+kokokokokok
+shoshosho
+tototototo"""
+printf(multiline[2])
